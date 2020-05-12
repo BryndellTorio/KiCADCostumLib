@@ -1,6 +1,17 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# 74VHC125M
+#
+DEF 74VHC125M U 0 40 Y Y 1 F N
+F0 "U" -400 650 50 H V C CNN
+F1 "74VHC125M" 450 -300 50 H V C CNN
+F2 "" -400 650 50 H I C CNN
+F3 "" -400 650 50 H I C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
 # JumperPad
 #
 DEF JumperPad SJ 0 40 Y Y 1 F N
